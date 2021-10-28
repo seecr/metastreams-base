@@ -1,2 +1,2 @@
-# metastreams
-Base module for seecr-metastreams
+# Metastreams
+Base module for metastreams modules
