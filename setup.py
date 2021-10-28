@@ -34,8 +34,8 @@ setup(
     url='https://metastreams.nl',
     author='Seecr',
     author_email='info@seecr.nl',
-    description='Metastreams-Base is the base package for all Metastreams modules.'
-    long_description='Metastreams-Base is the base package for all Metastreams modules.'
+    description='Metastreams-Base is the base package for all Metastreams modules.',
+    long_description='Metastreams-Base is the base package for all Metastreams modules.',
     license='GNU Public License',
     platforms='all',
 )
