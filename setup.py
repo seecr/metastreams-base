@@ -24,13 +24,15 @@
 
 from distutils.core import setup
 
+version = '$Version: 0$'[9:-1].strip()
+
 setup(
     name='metastreams-base',
     packages=[
         'metastreams',
         'metastreams.base',
     ],
-    version='%VERSION%',
+    version=version,
     url='https://metastreams.nl',
     author='Seecr',
     author_email='info@seecr.nl',
